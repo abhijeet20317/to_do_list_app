@@ -18,13 +18,13 @@ This project helps users add and manage their daily tasks with a simple and mini
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Screenshot](./public/Screenshot%202025-11-19%20210555.png)
+![Screenshot](./public/Screenshot202025-11-1920210555.png)
 
 ### ➕ Adding Notes
-![Screenshot](./public/Screenshot%202025-11-19%20211100.png)
+![Screenshot](./public/Screenshot202025-11-1920211100.png)
 
 ### 📋 Notes Display
-![Screenshot](./public/Screenshot%202025-11-19%20211327.png)
+![Screenshot](./public/Screenshot202025-11-1920211327.png)
 
 ---
 
