@@ -21,7 +21,7 @@ This project helps users add and manage their daily tasks with a simple and mini
 ![Screenshot](./public/Screenshot202025-11-1920210555.png)
 
 ### ➕ Adding Notes
-![Screenshot](./public/Screenshot202025-11-1920211100.png)
+![Screenshot](./public/Screenshot2025-11-19211100.png)
 
 ### 📋 Notes Display
 ![Screenshot](./public/Screenshot2025-11-19211327.png)
